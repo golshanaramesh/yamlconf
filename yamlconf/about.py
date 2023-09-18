@@ -1,5 +1,5 @@
 __name__ = "yamlconf-wmf"
-__version__ = "0.2.8"
+__version__ = "0.2.9"
 __author__ = "Aaron Halfaker"
 __author_email__ = "aaron.halfaker@gmail.com"
 __description__ = "Yaml-based configuration file reader. This is a fork of the original yamlfconf package. " \

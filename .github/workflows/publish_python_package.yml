@@ -39,4 +39,4 @@ jobs:
         uses: pypa/gh-action-pypi-publish@release/v1
         with:
           user: wmf-ml
-          password: ${{ secrets.PYPI_PASS }}
+          password: ${{ secrets.PYPI_TOKEN }}
